@@ -5,7 +5,10 @@ How to Run : Python main.py
 How to Learn : Fisrt place learn Python fundamental
 
 # Contact with me Social Media
-https://instagram.com/zhac4er
+https://www.instagram.com/zhac4er
+
+# I'm Codewars
+https://www.codewars.com/users/Zhacker
 
 # Country
 Uzbekistan
